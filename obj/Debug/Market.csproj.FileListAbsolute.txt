@@ -1,0 +1,7 @@
+c:\users\usario1\Documents\C# Projects\Market\Market\bin\Debug\Market.exe.config
+c:\users\usario1\Documents\C# Projects\Market\Market\bin\Debug\Market.exe
+c:\users\usario1\Documents\C# Projects\Market\Market\bin\Debug\Market.pdb
+c:\users\usario1\Documents\C# Projects\Market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+c:\users\usario1\Documents\C# Projects\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+c:\users\usario1\Documents\C# Projects\Market\Market\obj\Debug\Market.exe
+c:\users\usario1\Documents\C# Projects\Market\Market\obj\Debug\Market.pdb
